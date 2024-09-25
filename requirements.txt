@@ -3,3 +3,6 @@ pandas
 scikit-learn
 scipy
 POT
+pyforest
+matplotlib
+seaborn
