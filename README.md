@@ -94,7 +94,6 @@ scipy==1.14.1           # For scientific computations
 
 Future work could explore integration with modern deep learning frameworks, extending to multi-source domain adaptation scenarios. Development of real-time adaptation capabilities would open new application possibilities. Extended feature comparison could provide deeper insights into method behavior across different representation types.
 
-## Academic References
-
-Fernando et al. (2013) introduced the Subspace Alignment method, providing theoretical foundations for subspace-based adaptation.
-Courty et al. (2016) developed the Optimal Transport framework for domain adaptation, introducing crucial regularization techniques.
+## References
+- [Fernando et al. (2013): Subspace Alignment for Domain Adaptation](https://arxiv.org/abs/1409.5241)
+- [Courty et al. (2016): Optimal Transport for Domain Adaptation](https://arxiv.org/abs/1603.08788)
