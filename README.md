@@ -96,4 +96,4 @@ Future work could explore integration with modern deep learning frameworks, exte
 
 ## References
 - [Fernando et al. (2013): Subspace Alignment for Domain Adaptation](https://arxiv.org/abs/1409.5241)
-- [Courty et al. (2016): Optimal Transport for Domain Adaptation](https://arxiv.org/abs/1603.08788)
+- [Courty et al. (2016): Optimal Transport for Domain Adaptation](https://ieeexplore.ieee.org/abstract/document/7586038)
