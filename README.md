@@ -25,12 +25,12 @@ The Optimal Transport implementation uses the Sinkhorn algorithm with entropy re
 <p align="center">
   <img src="pics/tsne_caffe_before.png" width="400" alt="Before Adaptation"/>
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="./pics/tsne_caffe_after.png" width="400" alt="After Adaptation"/>
+  <img src="pics/tsne_caffe_after.png" width="400" alt="After Adaptation"/>
 </p>
 
 <p align="center">
-  <img src="/pics/confusion_surf_before.png" width="400" alt="Before Adaptation"/>
-  <img src="../pics/confusion_surf_after.png" width="400" alt="After Adaptation"/>
+  <img src="pics/confusion_surf_before.png" width="400" alt="Before Adaptation"/>
+  <img src="pics/confusion_surf_after.png" width="400" alt="After Adaptation"/>
 </p>
 <p align="center">
   <em>Before Adaptation &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; After Adaptation</em>
@@ -77,7 +77,7 @@ How we practically apply this:
 This strategy effectively solves the parameter selection problem while maintaining the real-world applicability of our methods.
 
 <p align="center">
-  <img src="../pics/baseline_comparison.png" width="400" alt="Baseline Comparison"/>
+  <img src="pics/baseline_comparison.png" width="400" alt="Baseline Comparison"/>
 </p>
 
 Required dependencies:
